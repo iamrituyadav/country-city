@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar>a>button{
+    width: 200px;
+    height: 49px;
+    font-size: 25px;
+}
+
+.filter>select{
+  width: 200px;
+    height: 40px;
+    font-size: 18px;
+    padding-left: 10px;
+}
